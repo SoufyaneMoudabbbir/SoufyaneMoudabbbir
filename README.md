@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Soufyane 👋
 
-<!--
-**SoufyaneMoudabbbir/SoufyaneMoudabbbir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering Student passionate about Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+🎓 3rd year @ ENIADB | Morocco    
+🔬 ML Intern @ OCP | Computer Vision @ ORMVAT  
+🚀 Building intelligent solutions with Python, PyTorch & TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current focus:**  
+Educational AI systems, NLP for Arabic/French, and practical ML applications
+
+
+📊 Active on Kaggle | 💻 Open to internships 2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/soufyanemoudabbir)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink)](https://github.com/sponsors/SoufyaneMoudabbbir)
+
