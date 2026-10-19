@@ -19,6 +19,7 @@ You sell and manage the client; I build the AI and back-end parts in the backgro
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Site Assistant](https://github.com/SoufyaneMoudabbbir/rag-site-assistant)** · [live demo](https://soufyane-ai.duckdns.org) | AI assistant that answers a website's visitors from its own content, installed with one line of code. Hybrid search (multilingual embeddings + BM25), streamed answers with sources, handoff to a human, admin dashboard. | Python, FastAPI, RAG, React, TypeScript, Docker |
 | **[FeedbackIQ](https://github.com/SoufyaneMoudabbbir/feedbackiq)** · [live demo](https://frontend-five-orpin-93.vercel.app) | Customer-feedback SaaS: form builder, email invitations, automatic sentiment and keyword analysis, analytics dashboard, CSV/PDF exports. Team project (3 developers). | React, TypeScript, FastAPI, PostgreSQL, VADER, YAKE |
 | **[Tawjihi RAG](https://github.com/SoufyaneMoudabbbir/Tawjihi_Rag)** | Educational platform: students upload course PDFs and ask questions answered from the course content, in Arabic, French or English. | FastAPI, FAISS, Sentence-Transformers, DeepSeek, Next.js |
 
