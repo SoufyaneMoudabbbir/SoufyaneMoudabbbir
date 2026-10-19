@@ -1,9 +1,8 @@
 # Hey, I'm Soufyane 👋
 
-AI Engineering Student passionate about Machine Learning & Deep Learning
+AI Developer passionate about Machine Learning & Deep Learning
 
-🎓 3rd year @ ENIADB | Morocco    
-🔬 ML Intern @ OCP | Computer Vision @ ORMVAT  
+🎓 ENIADB | Morocco    
 🚀 Building intelligent solutions with Python, PyTorch & TensorFlow
 
 **Current focus:**  
