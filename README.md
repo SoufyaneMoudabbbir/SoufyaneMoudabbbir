@@ -5,7 +5,7 @@ You sell and manage the client; I build the AI and back-end parts in the backgro
 
 *Développeur IA, disponible en marque blanche pour les agences. Basé à Casablanca : même fuseau horaire que la France, je travaille en français.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soufyane%20Moudabbir-0A66C2?logo=linkedin)](https://linkedin.com/in/soufyane-moudabbir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soufyane%20Moudabbir-0A66C2?logo=linkedin)](https://linkedin.com/in/soufyanemoudabbir)
 [![Email](https://img.shields.io/badge/Email-moudabbirsoufiane%40gmail.com-555?logo=gmail)](mailto:moudabbirsoufiane@gmail.com)
 
 ## What I build
